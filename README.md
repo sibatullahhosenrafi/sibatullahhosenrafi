@@ -10,7 +10,7 @@ ooooooooo.         .o.       oooooooooooo ooooo
 o888o  o888o o88o     o8888o o888o        o888o 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Sibatullah+Hosen+Rafi;Web+Developer+%7C+Frontend+Craftsman;Building+the+web+one+pixel+at+a+time+%E2%9A%A1;HTML+%7C+CSS+%7C+JavaScript+%7C+and+beyond..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Sibatullah+Hosen+Rafi;CSE+Undergrad+%40+KUET+%F0%9F%8E%93;Problem+Solver+%7C+Academic+Explorer;Passionate+about+CS+Fundamentals+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -22,17 +22,43 @@ o888o  o888o o88o     o8888o o888o        o888o
 
 ## `> whoami`
 
-```javascript
-const rafi = {
-  name:       "Sibatullah Hosen Rafi",
-  location:   "Bangladesh 🇧🇩",
-  role:       "Web Developer",
-  focus:      ["Frontend Development", "UI/UX Design", "Responsive Web"],
-  techStack:  ["HTML5", "CSS3", "JavaScript", "Git", "VS Code"],
-  learning:   ["React.js", "Tailwind CSS", "Node.js"],
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-  available:  true, // open to collaboration!
+```cpp
+class Rafi {
+public:
+    string name       = "Md. Sibatullah Hosen Rafi";
+    string university = "Khulna University of Engineering & Technology";
+    string department = "Computer Science & Engineering";
+    string roll       = "2307077";
+    string session    = "2023-2024";
+
+    vector<string> interests = {
+        "Problem Solving",
+        "CS Fundamentals",
+        "Low-Level Systems",
+        "Academic Research"
+    };
+
+    bool   studious   = true;
+    bool   curious    = true;
+    string status     = "Undergraduate — grinding every day 💪";
 };
+```
+
+---
+
+## `> ls ./knowledge_base`
+
+```
+📚 ACADEMIC KNOWLEDGE BASE
+══════════════════════════════════════════════════════
+  ✅  Structured Programming          [C / C++]
+  ✅  Object Oriented Programming     [C++]
+  ✅  Data Structures & Algorithms    [Problem Solving]
+  ✅  Discrete Mathematics            [Logic & Proofs]
+  ✅  Digital Logic Design            [Gates & Circuits]
+  ✅  Microprocessor & Microcontroller [Assembly / Embedded]
+  ✅  Computer Architecture           [Low-Level Systems]
+══════════════════════════════════════════════════════
 ```
 
 ---
@@ -41,13 +67,12 @@ const rafi = {
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
@@ -60,7 +85,7 @@ const rafi = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sibatullahhosenrafi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibatullahhosenrafi&layout=compact&langs_count=8&theme=tokyonight&border_color=00f5ff&title_color=00f5ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibatullahhosenrafi&layout=compact&langs_count=6&theme=tokyonight&border_color=00f5ff&title_color=00f5ff"/>
 
 </div>
 
@@ -72,28 +97,35 @@ const rafi = {
 
 ---
 
-## `> ls ./activity`
+## `> cat ./projects.log`
 
-<div align="center">
+```
+[COMPLETED PROJECTS]
+══════════════════════════════════════════════════════
+  🗳️  Voting Management System
+      └─ C++ | OOP | File Handling | Admin Privilege System
+      └─ Built for CSE-1206 OOP Lab @ KUET
 
-[![Rafi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sibatullahhosenrafi&theme=react-dark&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=false&border_color=00f5ff)](https://github.com/sibatullahhosenrafi)
-
-</div>
+══════════════════════════════════════════════════════
+  🔄  More projects loading...
+══════════════════════════════════════════════════════
+```
 
 ---
 
 ## `> cat ./goals.txt`
 
 ```
-[2026 OBJECTIVES]
-─────────────────────────────────────────────
- ✅  Master JavaScript fundamentals
- 🔄  Learn React.js & build 3 projects
- 🔄  Contribute to Open Source
- 📌  Build my personal portfolio website
- 📌  Learn backend basics (Node.js)
- 📌  Launch a full-stack web project
-─────────────────────────────────────────────
+[ACADEMIC ROADMAP]
+══════════════════════════════════════════════════════
+  ✅  Master Structured Programming (C/C++)
+  ✅  Build solid OOP fundamentals
+  🔄  Sharpen DSA & competitive problem solving
+  🔄  Dive deeper into Computer Architecture
+  📌  Explore Operating Systems & Networking
+  📌  Contribute to Open Source
+  📌  Research in CS / publish academic work
+══════════════════════════════════════════════════════
 ```
 
 ---
@@ -114,12 +146,12 @@ const rafi = {
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║   "First, solve the problem. Then, write the code."  ║
-║                              — John Johnson           ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  "The computer was born to solve problems that did not   ║
+║   exist before."         — Bill Gates                    ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-⚡ *Thanks for visiting my profile! Let's build something awesome together.* ⚡
+⚡ *CSE undergrad on a mission — one algorithm at a time.* ⚡
 
 </div>
