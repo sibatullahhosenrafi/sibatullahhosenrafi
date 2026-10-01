@@ -1,15 +1,4 @@
 <div align="center">
-
-```
-ooooooooo.         .o.       oooooooooooo ooooo 
-`888   `Y88.      .888.      `888'     `8 `888' 
- 888   .d88'     .8"888.      888          888  
- 888ooo88P'     .8' `888.     888oooo8     888  
- 888`88b.      .88ooo8888.    888    "     888  
- 888  `88b.   .8'     `888.   888          888  
-o888o  o888o o88o     o8888o o888o        o888o 
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Sibatullah+Hosen+Rafi;CSE+Undergrad+%40+KUET+%F0%9F%8E%93;Problem+Solver+%7C+Academic+Explorer;Passionate+about+CS+Fundamentals+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
