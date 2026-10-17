@@ -1,10 +1,5 @@
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I%27m+Sibatullah+Hosen+Rafi;CSE+Undergrad+%40+KUET+%F0%9F%8E%93;Problem+Solver+%7C+Academic+Explorer;Passionate+about+CS+Fundamentals+%E2%9A%A1" alt="Typing SVG" />
 
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sibatullahhosenrafi&color=00f5ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/sibatullahhosenrafi)
 
 </div>
 
