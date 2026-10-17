@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Sibatullah+Hosen+Rafi;CSE+Undergrad+%40+KUET+%F0%9F%8E%93;Problem+Solver+%7C+Academic+Explorer;Passionate+about+CS+Fundamentals+%E2%9A%A1" alt="Typing SVG" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I%27m+Sibatullah+Hosen+Rafi;CSE+Undergrad+%40+KUET+%F0%9F%8E%93;Problem+Solver+%7C+Academic+Explorer;Passionate+about+CS+Fundamentals+%E2%9A%A1" alt="Typing SVG" />
+
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sibatullahhosenrafi&color=00f5ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/sibatullahhosenrafi)
 
@@ -9,50 +10,29 @@
 
 ---
 
-## `> whoami`
+## 👤 About Me
 
-```cpp
-class Rafi {
-public:
-    string name       = "Md. Sibatullah Hosen Rafi";
-    string university = "Khulna University of Engineering & Technology";
-    string department = "Computer Science & Engineering";
-    string roll       = "2307077";
-    string session    = "2023-2024";
+I'm **Md. Sibatullah Hosen Rafi**, a Computer Science & Engineering undergraduate at **Khulna University of Engineering & Technology (KUET)**, session 2023–2024. I enjoy problem solving, understanding how computers work at a low level, and building a strong CS foundation one topic at a time.
 
-    vector<string> interests = {
-        "Problem Solving",
-        "CS Fundamentals",
-        "Low-Level Systems",
-        "Academic Research"
-    };
-
-    bool   studious   = true;
-    bool   curious    = true;
-    string status     = "Undergraduate — grinding every day 💪";
-};
-```
+**Interests:** Problem Solving · CS Fundamentals · Low-Level Systems · Academic Research
 
 ---
 
-## `> ls ./knowledge_base`
+## 📚 Academic Knowledge Base
 
-```
-📚 ACADEMIC KNOWLEDGE BASE
-══════════════════════════════════════════════════════
-  ✅  Structured Programming          [C / C++]
-  ✅  Object Oriented Programming     [C++]
-  ✅  Data Structures & Algorithms    [Problem Solving]
-  ✅  Discrete Mathematics            [Logic & Proofs]
-  ✅  Digital Logic Design            [Gates & Circuits]
-  ✅  Microprocessor & Microcontroller [Assembly / Embedded]
-  ✅  Computer Architecture           [Low-Level Systems]
-══════════════════════════════════════════════════════
-```
+| Course | Focus |
+|---|---|
+| Structured Programming | C / C++ |
+| Object Oriented Programming | C++ |
+| Data Structures & Algorithms | Problem solving |
+| Discrete Mathematics | Logic & proofs |
+| Digital Logic Design | Gates & circuits |
+| Microprocessor & Microcontroller | Assembly / Embedded |
+| Computer Architecture | Low-level systems |
 
 ---
 
-## `> tech_stack --list`
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -68,58 +48,43 @@ public:
 
 ---
 
-## `> git log --stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sibatullahhosenrafi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f5ff&title_color=00f5ff&icon_color=00f5ff"/>
+<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sibatullahhosenrafi&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=00f5ff&icon_color=00f5ff" />
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibatullahhosenrafi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00f5ff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibatullahhosenrafi&layout=compact&langs_count=6&theme=tokyonight&border_color=00f5ff&title_color=00f5ff"/>
+<br/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sibatullahhosenrafi&theme=tokyonight&border=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF)](https://git.io/streak-stats)
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=sibatullahhosenrafi&theme=tokyonight&hide_border=true&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF" />
 
 </div>
 
 ---
 
-## `> cat ./projects.log`
+## 🚀 Projects
 
-```
-[COMPLETED PROJECTS]
-══════════════════════════════════════════════════════
-  🗳️  Voting Management System
-      └─ C++ | OOP | File Handling | Admin Privilege System
-      └─ Built for CSE-1206 OOP Lab @ KUET
-
-══════════════════════════════════════════════════════
-  🔄  More projects loading...
-══════════════════════════════════════════════════════
-```
+| Project | Tech | Details |
+|---|---|---|
+| 🗳️ **Voting Management System** | C++ · OOP · File Handling | Admin privilege system, built for the CSE-1206 OOP Lab at KUET |
+| 🔄 *More projects loading...* | | |
 
 ---
 
-## `> cat ./goals.txt`
+## 🎯 Goals
 
-```
-[ACADEMIC ROADMAP]
-══════════════════════════════════════════════════════
-  ✅  Master Structured Programming (C/C++)
-  ✅  Build solid OOP fundamentals
-  🔄  Sharpen DSA & competitive problem solving
-  🔄  Dive deeper into Computer Architecture
-  📌  Explore Operating Systems & Networking
-  📌  Contribute to Open Source
-  📌  Research in CS / publish academic work
-══════════════════════════════════════════════════════
-```
+- [x] Master Structured Programming (C/C++)
+- [x] Build solid OOP fundamentals
+- [ ] Sharpen DSA & competitive problem solving *(in progress)*
+- [ ] Dive deeper into Computer Architecture *(in progress)*
+- [ ] Explore Operating Systems & Networking
+- [ ] Contribute to Open Source
+- [ ] Research in CS / publish academic work
 
 ---
 
-## `> ping --connect`
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -132,27 +97,22 @@ public:
 
 ---
 
-## `> ./animations`
+## 🐍 Contribution Snake
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibatullahhosenrafi/sibatullahhosenrafi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibatullahhosenrafi/sibatullahhosenrafi/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sibatullahhosenrafi/sibatullahhosenrafi/output/github-snake.svg" />
 </picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  "The computer was born to solve problems that did not   ║
-║   exist before."         — Bill Gates                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-⚡ *CSE undergrad on a mission — one algorithm at a time.* ⚡
+⚡ *CSE undergrad on a mission, one algorithm at a time.* ⚡
 
 </div>
